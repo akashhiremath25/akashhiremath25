@@ -1,41 +1,60 @@
-<div align=center">
-<img src="https://github.com/AkashHiremath856/AkashHiremath856/blob/main/LinkedIn%20Banner.png"></div>
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">An Aspiring about Data Scientist</h3>
-<p align="left"> <img src="https://akashhiremath856.github.io/MyPortfolio.github.io/img/avataaars.png" width=100 height=100 alt="akashhiremath856"/></p>
+# 💫 About Me:
+Data Engineer specializing in **end-to-end data pipelines**,  
+**batch processing**, and **analytics-ready data modeling**.  
+Experienced with **Python, SQL, Spark, Airflow**, and **cloud platforms (AWS, Azure)**  
+to transform high-volume datasets into reliable, business-ready insights.
 
-- 🌱 I’m currently learning **LLM**
+---
 
-- 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashhiremath25)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash.hiremath25@gmail.com)
 
-- 📫 How to reach me **akash.hiremath25@gmail.com**
+---
 
-- &#9729; Checkout my [Website](https://akashhiremath856.github.io/MyPortfolio.github.io/)
+# 💻 Tech Stack:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash-hiremath25" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" title="Linkedin" alt="akash-hiremath25" height="30" width="40" /></a>
-<a href="https://kaggle.com/akashhiremath25" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" title="Kaggle" alt="akashhiremath25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akash_hiremath25" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" title="HackerRank" alt="akash_hiremath25" height="30" width="40" /></a>
-<a href="https://medium.com/@akash.hiremath25" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" title="Blogs" alt="akashhiremath25" height="30" width="40" /></a>
+### 🧠 Programming & Querying
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</p>
+### 🗄️ Databases & Warehousing
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*3nxN1KJHTHNVRcobi3C6XQ.png" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🔄 Data Engineering & Big Data
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashhiremath856&show_icons=true&locale=en&layout=compact" alt="akashhiremath856" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashhiremath856&show_icons=true&locale=en" alt="akashhiremath856" /></p>
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashhiremath856&" alt="akashhiremath856" /></p>
+### 📊 Analytics & Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ⚙️ APIs, Automation & DevOps
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akashhiremath25&theme=dark&hide_border=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akashhiremath25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashhiremath25&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=akashhiremath25&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM -->
